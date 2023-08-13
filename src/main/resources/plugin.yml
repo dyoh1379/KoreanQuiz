@@ -1,0 +1,4 @@
+name: KoreanQuiz
+version: '${project.version}'
+main: kr.dyoh1379.koreanquiz.Main
+api-version: '1.20'
